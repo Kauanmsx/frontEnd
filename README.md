@@ -37,7 +37,7 @@ TechSolutions/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/Kauanmsx/AtividadeCss.git
+git clone [https://github.com/Kauanmsx/frontEnd.git]
 ```
 
 2. Acesse a pasta do projeto.
